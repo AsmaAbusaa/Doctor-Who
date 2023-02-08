@@ -4,8 +4,7 @@
 - Follow GIT best practices you learned to push your script files.
 
  
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3ef2ad0-a6f0-4a36-887e-7b7940bed7dd/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3ef2ad0-a6f0-4a36-887e-7b7940bed7dd/Untitled.png)
+![image](https://user-images.githubusercontent.com/106749703/217494260-837b8bf1-0206-45ff-93f9-f54925ae09bd.png)
 
 1. Create a DB named `DoctorWho`.
 2. Write scripts to create the above tables, keys, relationships and constraints.
